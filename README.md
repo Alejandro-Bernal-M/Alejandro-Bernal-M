@@ -14,11 +14,11 @@
   
   ```javascript
 const alejandroBernalMarin = {
-  lookingFor: "Front-end developer" || "Full-stack web developer" || "Back-end developer" ,
+  lookingFor: "Full-stack web developer" || "Front-end developer" || "Back-end web developer" ,
   pronouns: ["He", "Him"],
-  code: [JavaScript, HTML/CSS, Bootstrap, React and redux],
+  code: [JavaScript, HTML/CSS, Bootstrap, React, Redux, Ruby],
   askMeAbout: [Camping, Gaming, Stoicism],
-  challenge: "Learn every day something new",
+  challenge: "Learn something new every day",
   funFacts: ['I have a degree on Sports and Recreation', 
   'I love to solve problems', 'I worked teaching soft skills through the educational experience']
 }
