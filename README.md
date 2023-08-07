@@ -16,7 +16,7 @@
 const alejandroBernalMarin = {
   lookingFor: "Full-stack web developer" || "Front-end developer" || "Back-end web developer" ,
   pronouns: ["He", "Him"],
-  code: [JavaScript, HTML/CSS, Bootstrap, React, Redux, Ruby],
+  code: [JavaScript, HTML/CSS, Bootstrap, React, Redux, Next.js, Ruby, Ruby on Rails],
   askMeAbout: [Camping, Gaming, Stoicism],
   challenge: "Learn something new every day",
   funFacts: ['I have a degree on Sports and Recreation', 
