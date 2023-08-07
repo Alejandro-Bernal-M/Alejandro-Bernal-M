@@ -20,7 +20,7 @@ const alejandroBernalMarin = {
     askMeAbout: ["Camping", "Gaming", "Stoicism"],
     challenge: "Learn something new every day",
     funFacts: ["I have a degree on Sports and Recreation", 
-  "I love to solve problems", "I worked teaching soft skills through the educational experience"]
+    "I love to solve problems", "I worked teaching soft skills through the educational experience"]
 }
 ```
   
