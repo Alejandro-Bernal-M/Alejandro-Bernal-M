@@ -19,7 +19,7 @@ const alejandroBernalMarin = {
     code: ["JavaScript", "HTML/CSS", "Bootstrap", "React", "Redux", "Next.js", "Ruby", "Ruby on Rails"],
     askMeAbout: ["Camping", "Gaming", "Stoicism"],
     challenge: "Learn something new every day",
-    funFacts: ["I have a degree on Sports and Recreation", 
+    funFacts: ["I have a degree in Sports and Recreation and I studied for two years of system engineering", 
     "I love to solve problems", "I worked teaching soft skills through the educational experience"]
 }
 ```
