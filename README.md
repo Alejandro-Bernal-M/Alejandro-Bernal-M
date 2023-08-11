@@ -8,7 +8,7 @@
 
 <p><em>Remote Full-stack web developer ready for adventure</em>
   
-  [![Linkedin Badge](https://img.shields.io/badge/-Alejandro%20Bernal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/ellievillalejos/](https://www.linkedin.com/in/alejandro-bernal-marin-901a53245/))](https://www.linkedin.com/in/alejandro-bernal-marin-901a53245/)
+  [![Linkedin Badge](https://img.shields.io/badge/-Alejandro%20Bernal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/alejandro-bernal-marin/](https://www.linkedin.com/in/alejandro-bernal-marin/))](https://www.linkedin.com/in/alejandro-bernal-marin/)
   
   ### About me... <img src= "https://media.giphy.com/media/OMrq9FmUgObwogeL06/giphy.gif" width="40" height="40">
   
