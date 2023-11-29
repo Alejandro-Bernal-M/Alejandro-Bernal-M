@@ -23,7 +23,10 @@ const alejandroBernalMarin = {
     "I love to solve problems", "I worked teaching soft skills through the educational experience"]
 }
 ```
-  
+  <p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Alejandro-Bernal-M&count_private=true&theme=radical" alt=Alejandro's GitHub stats" />
+</p>
+
  ### Let's build together...
  
 
