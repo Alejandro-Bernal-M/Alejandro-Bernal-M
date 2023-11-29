@@ -33,6 +33,12 @@ const alejandroBernalMarin = {
   </a>
 </p>
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Alejandro-Bernal-M&theme=highcontrast" alt="GitHub Streak" />
+  </a>
+</p>
+
  ### Let's build together...
  
 
