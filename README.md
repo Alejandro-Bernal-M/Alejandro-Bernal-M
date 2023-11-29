@@ -23,7 +23,8 @@ const alejandroBernalMarin = {
     "I love to solve problems", "I worked teaching soft skills through the educational experience"]
 }
 ```
-  <p align="center">
+<p align="center">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alejandro-Bernal-M)](https://github.com/Alejandro-Bernal-M/github-readme-stats)
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Alejandro-Bernal-M&count_private=true&theme=radical" alt=Alejandro's GitHub stats" />
 </p>
 
