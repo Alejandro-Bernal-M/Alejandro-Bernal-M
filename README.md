@@ -27,6 +27,12 @@ const alejandroBernalMarin = {
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Alejandro-Bernal-M&count_private=true&theme=radical" alt=Alejandro's GitHub stats" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro-Bernal-M&layout=donut-vertical" alt="Top Langs" />
+  </a>
+</p>
+
  ### Let's build together...
  
 
