@@ -4,6 +4,8 @@
 
 # Hi!, my name is Alejandro Bernal Marín
 
+## From Colombia 
+
 
 
 <p><em>Remote Full-stack web developer ready for adventure</em>
